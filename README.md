@@ -1,1 +1,1 @@
-# Fiji-campus-usp
+# Fiji-campus-dashboard
